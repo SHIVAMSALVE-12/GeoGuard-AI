@@ -71,10 +71,9 @@ GeoGuard AI addresses this challenge by providing automated AI-based damage asse
 ---
 
 # 🏗️ System Architecture
-# 🏗️ System Architecture
 
 <p align="center">
-  <img src="docs/system_architecture.png"
+  <img src="docs/system_architecture.png.png"
        alt="GeoGuard AI System Architecture"
        width="1000"/>
 </p>
